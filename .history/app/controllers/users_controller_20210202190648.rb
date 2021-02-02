@@ -1,4 +1,3 @@
-# app/controllers/users_controller.rb
 class UsersController < ApplicationController
     skip_before_action :authorize_request, only: :create
     # POST /signup
@@ -20,4 +19,4 @@ class UsersController < ApplicationController
         :password_confirmation
       )
     end
-end
+  end
