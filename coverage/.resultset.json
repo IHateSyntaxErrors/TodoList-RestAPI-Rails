@@ -62,8 +62,8 @@
         null,
         null,
         1,
-        34,
-        34,
+        38,
+        38,
         null,
         null,
         null,
@@ -279,6 +279,16 @@
         null,
         null
       ],
+      "G:/Downloads (HDD)/University/7th Semester/SERVICE ORIENTED SOFTWARE/ASSIGNMENTS/todos-api/spec/factories/users.rb": [
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
       "G:/Downloads (HDD)/University/7th Semester/SERVICE ORIENTED SOFTWARE/ASSIGNMENTS/todos-api/config/routes.rb": [
         1,
         null,
@@ -486,8 +496,27 @@
         1,
         null
       ],
-      "G:/Downloads (HDD)/University/7th Semester/SERVICE ORIENTED SOFTWARE/ASSIGNMENTS/todos-api/spec/requests/items_spec.rb": [
+      "G:/Downloads (HDD)/University/7th Semester/SERVICE ORIENTED SOFTWARE/ASSIGNMENTS/todos-api/spec/models/user_spec.rb": [
+        null,
         1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        2,
+        null,
+        null,
+        2,
+        2,
+        2,
+        null
+      ],
+      "G:/Downloads (HDD)/University/7th Semester/SERVICE ORIENTED SOFTWARE/ASSIGNMENTS/todos-api/app/models/user.rb": [
+        1,
+        null
+      ],
+      "G:/Downloads (HDD)/University/7th Semester/SERVICE ORIENTED SOFTWARE/ASSIGNMENTS/todos-api/spec/requests/items_spec.rb": [
         1,
         null,
         1,
@@ -722,6 +751,6 @@
         null
       ]
     },
-    "timestamp": 1612224840
+    "timestamp": 1612279652
   }
 }
