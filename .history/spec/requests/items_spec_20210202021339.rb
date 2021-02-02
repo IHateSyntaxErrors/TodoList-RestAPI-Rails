@@ -1,4 +1,5 @@
 require 'rails_helper'
+require 'faker'
 
 RSpec.describe 'Items API' do
   let!(:todo) { create(:todo) }

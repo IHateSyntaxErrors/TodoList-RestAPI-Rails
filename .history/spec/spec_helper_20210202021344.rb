@@ -16,6 +16,7 @@
 
 # Add Coveralls to track spec coverage
 require 'coveralls'
+require 'faker'
 Coveralls.wear!
 
 RSpec.configure do |config|
